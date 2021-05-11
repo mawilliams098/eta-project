@@ -4,6 +4,10 @@ Box Link to code and data: https://virginia.app.box.com/folder/136685843394?s=8q
 
 The file structure for this project is as follows: 
 
+* `Manifest.pdf`
+
+* `Report.pdf`
+
 * `create_tables.ipynb`: This notebook contains the code to create the initial F2-F4 `DOC`, `LIB`, `TOKEN`, and `VOCAB` tables. 
 
 * `create_models.ipynb`:  This notebook contains the code for PCA, LDA, word2vec, and sentiment analysis. 
