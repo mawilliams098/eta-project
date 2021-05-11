@@ -1,0 +1,9 @@
+doc_id,book_title,book_file,translator
+100,"The Iliad, by Homer
+",./data_in/100-iliad-butler.txt,Butler
+200,"The Odyssey, by Homer
+",./data_in/200-odyssey-butler.txt,Butler
+300,"The Iliads of Homer, by Homer
+",./data_in/300-iliad-chapman.txt,Chapman
+400,"The Odysseys of Homer, by Homer
+",./data_in/400-odyssey-chapman.txt,Chapman
